@@ -1,1 +1,1 @@
-[live]: https://alpha-blog-grace-park.herokuapp.com/articles/new
+[Live](https://alpha-blog-grace-park.herokuapp.com/articles/new)
